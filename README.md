@@ -14,6 +14,8 @@ To install the Password Strength Analyzer, follow these steps:
 
 Clone the repository:
 
+    https://github.com/Bomber169/Passy.git
+
 Install dependencies:
 
     pip install -r requirements.txt
@@ -35,13 +37,12 @@ Install dependencies:
 The dataset used for training and testing the password strength analyzer consists of 14 million passwords obtained from the RockYou dataset. Preprocessing steps were applied to clean and prepare the data for training.
 
 # Technologies Used
-
-Python
-scikit-learn
-fastapi
-jinja2
-XGB Classifier
-uvicorn
+1) Python
+2) scikit-learn
+3) fastapi
+4) jinja2
+5) XGB Classifier
+6) uvicorn
 
     
 
